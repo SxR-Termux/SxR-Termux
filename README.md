@@ -11,4 +11,6 @@
  
  cd SxR-Termux
  
- ls python SxR-Termux.py
+ ls 
+ 
+ python SxR-Termux
