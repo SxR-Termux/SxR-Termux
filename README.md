@@ -5,7 +5,7 @@
 
  pip install requests && pip install bs4
  
- git clone 
+ git clone https://github.com/SxR-Termux-182/SxR-Termux.git
  
  ls
  
